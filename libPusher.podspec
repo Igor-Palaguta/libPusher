@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   
   s.subspec 'ReactiveExtensions' do |subspec|
     subspec.dependency 'libPusher/Core'
-    subspec.dependency 'ReactiveCocoa'
+    subspec.dependency 'ReactiveObjC'
 
     subspec.source_files = 'ReactiveExtensions/*'
     subspec.private_header_files = 'ReactiveExtensions/*_Internal.h'
