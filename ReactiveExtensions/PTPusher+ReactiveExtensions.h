@@ -6,7 +6,7 @@
 //
 //
 
-#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveObjC/ReactiveObjC.h>
 #import "PTPusher.h"
 #import "PTPusherChannel+ReactiveExtensions.h"
 
